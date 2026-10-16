@@ -1,0 +1,8 @@
+Copyright (c) 2026 Ali Mohammed Jundi. All rights reserved.
+
+This software and its source code may not be copied, modified, distributed,
+or used without the written permission of the copyright holder.
+
+Third-party material: Iraq and governorate boundary data from geoBoundaries
+(https://www.geoboundaries.org), licensed under CC BY 4.0, remain subject to
+their own license.
