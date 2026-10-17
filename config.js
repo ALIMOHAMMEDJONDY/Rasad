@@ -5,4 +5,4 @@
 const SUPA_URL = "https://cyrmcrwderrstalpdynm.supabase.co";
 const SUPA_KEY = "sb_publishable_ZwI_cjzy9Av7w9eoa4X2Fg_B1iTFhcP";
 // إيميل التواصل الذي يظهر بسياسة الخصوصية (اكتبه بين علامتي التنصيص، أو اتركه فارغاً)
-const CONTACT_EMAIL = "";
+const CONTACT_EMAIL = "iraqrasad@gmail.com";
